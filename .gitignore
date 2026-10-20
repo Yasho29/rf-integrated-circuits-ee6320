@@ -1,0 +1,6 @@
+.DS_Store
+# Cadence lock files, backups, logs and simulation results
+*.cdslck*
+*.oa-
+*.log
+results/

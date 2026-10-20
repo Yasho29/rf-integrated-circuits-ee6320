@@ -1,0 +1,3 @@
+(
+ (nil name "1" fundName "freq1" freqVar "frf" freq "3.5G" signal "Large" srcId "PORT0" maxHarms "3" freqIndex "freq" oversample "1")
+)
